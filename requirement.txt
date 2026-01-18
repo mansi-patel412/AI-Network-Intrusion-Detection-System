@@ -1,0 +1,7 @@
+pandas
+streamlit
+joblib
+scapy
+numpy
+scipy
+plotly
